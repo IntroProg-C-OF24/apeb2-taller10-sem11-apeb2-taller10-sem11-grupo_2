@@ -1,5 +1,5 @@
 # Taller 10 (Laboratorio-GRUPAL)
-
+Ignorar por favor la carpeta: "Taller 10" , puesto que el trabajo esta en Solucion_Matrices
 ## Construcción de programas usando arreglos bidimensionales
 
 * Definir la mejor estrategia de trabajo en grupo, ya que Ud. deberá defender individualmente todas las soluciones del presente taller en la clase presencial, y en base a esta defensa, de le asignará la calificación individualmente (pese a ser un taller grupal).
