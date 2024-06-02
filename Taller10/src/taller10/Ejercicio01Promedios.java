@@ -13,7 +13,7 @@ public class Ejercicio01Promedios {
         double matrizNotas[][] = new double[limitEst][limNotas];
         double arrPromedio[] = new double[limitEst];
 
-        int indiceNoteAlta = 0, indiceNoteBaja = 0;
+        int indiceNoteAlta = 0, indiceNoteBaja = 10;
 
         System.out.println(" \t NOMBRES | ACD | APE | AA | PROMEDIOS");
         for (int i = 0; i < limitEst; i++) {
